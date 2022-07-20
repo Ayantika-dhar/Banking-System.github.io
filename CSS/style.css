@@ -1,6 +1,6 @@
 .button1{
   border: none;
-  color: red;
+  color: yellow;
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
@@ -14,11 +14,45 @@
 
 .show{
 
-  padding-top:200px;
+  padding-top:300px;
   padding-left:300px;
 
 }
 
 .foot{
-  padding-top: 500px;
+  padding-top: 150px;
+}
+.back{
+  color: #696969;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+.image1{
+  margin-left: 600px;
+  height: 50px;
+  width: 50px;
+}
+.image2{
+  margin-left: 100px;
+  height: 50px;
+  width: 50px;
+}
+
+
+.form{
+  margin-top: 200px;
+  text-align:center;
+
+}
+
+.form1{
+
+  size: 100px;
+}
+.end{
+  margin-top: 200px;
+  text-align: center;
+  size: 100px;
+
 }
